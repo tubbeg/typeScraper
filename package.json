@@ -1,0 +1,22 @@
+{
+  "name": "nodescraper",
+  "version": "1.0.0",
+  "description": "a simple webscraper for node.js",
+  "main": "WebScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "@types/jsdom": "^16.2.3",
+    "@types/node-fetch": "^2.5.7",
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1",
+    "jsdom": "^16.2.2",
+    "node-fetch": "^2.6.0"
+  }
+}
